@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+    font-family:verdana;
+    color:black;
+}
+header{
+	background-color:indigo;
+}
+header h1{
+	color:white;
+}
+li{
+	text-decoration: none;
+	display:inline;
+	color: black;
+	font-family:verdana;
+}
+
+header a{
+	color:white;
+	font-family:verdana;
+	text-decoration: none; /*gets rid of line under links*/
+}
+footer{
+	background-color:indigo;
+}
+footer a{
+	color:white;
+	text-decoration:none
+}
+.current{
+	text-transform: uppercase;
+	color: white;
+	background-color:magenta;
+}
